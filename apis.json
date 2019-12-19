@@ -1,0 +1,51 @@
+{
+    "name": "Pando Daily",
+    "description": "We have one goal here at PandoDaily: To be the site of record for that startup root-system and everything that springs up from it, cycle-after-cycle.    That sounds simple but it\u2019ll be incredibly hard to pull off. It\u2019s not something we accomplish on da...",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/2677-pando-daily.jpg",
+    "tags": [
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/pando-daily\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Pando Daily",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/2677-pando-daily.jpg",
+            "humanURL": "http:\/\/pando.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/pando-daily-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/pando.com\/feed"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/pandodaily"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/pandodaily"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/pandodaily"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/pando.com\/"
+        }
+    ]
+}
